@@ -1,0 +1,17 @@
+/*
+Theme Name: AskingMod Clone
+Theme URI: https://askingmod.in
+Author: AI Developer
+Description: A fully functional React-based WordPress theme cloning the AskingMod experience.
+Version: 2.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: askingmod-clone
+*/
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0f172a;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}

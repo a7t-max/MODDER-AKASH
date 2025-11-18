@@ -1,0 +1,5 @@
+{
+  "name": "AskingMod Clone",
+  "description": "A high-fidelity React clone of the AskingMod website, featuring a dark-themed app store interface, detailed app pages, and a simulated 'verification task' popup flow for downloads.",
+  "requestFramePermissions": []
+}
